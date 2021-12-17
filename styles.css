@@ -116,17 +116,28 @@ footer div {
     margin-top: 50%;
 }
 footer {
-    background-color: #5BC0EB;
+    /*background-color: #5BC0EB;
     color:black;
     height: 60px;
     /* position: fixed; */
-    bottom: 0%;
+   /* bottom: 0%;
     right: 0;
     left: 0;
     background-size: cover;
     background-position: center;
-    min-height: 5vw;
+    min-height: 5vw;*/
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    text-align: center;
+    background: #303841;
+    color: #fff;
+    padding: 15px;
+    height: 100px;
+    font-family: inherit;
 }
+
 /* css qui modifie les titres de niveaux 1 de toutes les pages */
 h1 {
     color: #5BC0EB;
