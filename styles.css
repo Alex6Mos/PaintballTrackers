@@ -136,6 +136,7 @@ footer {
     padding: 15px;
     height: 100px;
     font-family: inherit;
+    margin-top: 20vh;
 }
 
 /* css qui modifie les titres de niveaux 1 de toutes les pages */
@@ -515,6 +516,9 @@ h2 {
 
 .buttonMatchs
 {
+  text-align: center;
+  margin-top: 25vh;
+  margin-bottom: 25vh;
 }
 
 .error404 p
@@ -537,6 +541,7 @@ h2 {
 .btn-primary
 {
   background-color: #5BC0EB;
+  margin: 10px;
 }
 
 
