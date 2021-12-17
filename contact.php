@@ -84,15 +84,15 @@
             <div class="pCard_down_contact">
                 <div>
                     <p>Projets</p>
-                    <p></p>
+                    <p>7</p>
                 </div>
                 <div>
                     <p>Age</p>
-                    <p></p>
+                    <p>3</p>
                 </div>
                 <div>
                     <p>Etude</p>
-                    <p></p>
+                    <p>Bac+3</p>
                 </div>
             </div>
             <!--Verso de la carte-->

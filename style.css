@@ -549,13 +549,12 @@ h2 {
     margin-bottom: 5%;
     background-color:  #5BC0EB; 
     border-radius: 3%;
-    
     box-shadow: 0 0 10px white;
     color: black;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;  /*60%*/
+    width: 100%;  /*60%*/
     height: 600px;
 }
 
@@ -688,10 +687,10 @@ label
     }
 
      /* css pour les titres des cardes de la page index */
-     .maCard h5
-     {
-         position: relative;
-         top: 0%;
+    .maCard h5
+    {
+      position: relative;
+      top: 0%;
      }
     
     /* css pour les paragraphe des cardes de la page index */
@@ -957,6 +956,7 @@ tbody tr
     transition: all 0.4s ease;
     top: 50%;
     transform: translateY(-50%);
+    color: #11101D;
   }
   
   .sidebar.open li .tooltip{
