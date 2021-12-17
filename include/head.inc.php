@@ -37,8 +37,8 @@
   <div class="sidebar">
     <!--Emplacement Logo + Titre de notre site-->
     <div class="logo-details">
-      <i class='bx bxl-c-plus-plus icon'></i>
-      <div class="logo_name">Paintball Trakers</div>
+      <!--<i class='bx bxl-c-plus-plus icon'></i>-->
+      <div class="logo_name" style="margin-left: 15px">Paintball Trackers</div>
       <i class='bx bx-menu' id="btn" ></i>
     </div>
     <!--Début de la barre de navigation-->
